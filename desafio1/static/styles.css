@@ -1,0 +1,11 @@
+body {
+  background: url(trek.jpg) no-repeat fixed;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Syncopate', Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-weight: bolder;
+}
